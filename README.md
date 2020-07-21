@@ -1,1 +1,1 @@
-Poker demo game
+Poker demo game with React App
